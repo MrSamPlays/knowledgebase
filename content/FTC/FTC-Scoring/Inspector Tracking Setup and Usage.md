@@ -23,4 +23,6 @@ title: Inspector Tracking Setup
 1. Once the scorekeeper has enabled inspection tracking as described in the previous section, you can enter the lead inspector override by clicking the logo, scrolling down to until you find robot inspection, click the link for robot inspection, and click the lead inspector override link found on the top right corner of the robot inspection menu (if you don't see it, you are not logged in as a lead inspector). ![[FTC-Live_lri_override_annotated.png]]
 2. If your interface looks something like this, you're on the right track. You should be able to click on the dropdowns and add teams to the ready queue. ![[FTC-Live_lri_override_interface_annotated.png]]
 3. The order in which you mark teams as ready matters, since that is the order it will show up on the pit display. In the below example, I marked team 999998 as ready first so it shows up with the number 1. ![[FTC-Live_pit_display_sample.webp]]
-4. Dual-Division events (Championships) have separate inspection tracking for each division so you will need to open two tabs, one for each division and flip between the two.
+
+> [!NOTE] Dual-Division events (Championships) 
+> Dual-Division events have separate inspection tracking for each division so you will need to open two tabs, one for each division and flip between the two.
