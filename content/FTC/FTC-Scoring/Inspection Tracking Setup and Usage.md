@@ -1,6 +1,3 @@
----
-title: Inspector Tracking Setup
----
 # Contents:
 1. [[#For Scorekeepers]]
 2. [[#For Lead Robot Inspectors]]
